@@ -20,3 +20,4 @@ This project explores the Deep Q-Learning approach and its application to an opt
 We have obtained following results for the corresponding models:
 
 [a relative link](lunar_lander.png)
+![alt text](lunar_lander.png)
