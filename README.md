@@ -19,17 +19,17 @@ The script [utils.py](utils.py) is designed to save a training graph, where you 
 ## Results
 
 We have obtained following results for the corresponding models:
-1) Lunar Lander environment
+1) Lunar Lander environment [test_game_lunarlander.ipynb](test_game_lunarlander.ipynb)
 
 ![alt text](lunar_lander.png)
 ![alt text](lunar_lander_result.gif)
 
-2) Cart Pole environment
+2) Cart Pole environment [test_game_cartpole.ipynb](test_game_cartpole.ipynb)
    
 ![alt text](CartPole.png)
 ![alt text](CartPole_results.gif)
 
-3) Acrobot environment
+3) Acrobot environment [test_game_acrobot.ipynb](test_game_acrobot.ipynb)
 
 ![alt text](Acrobot.png)
 ![alt text](Acrobot_results.gif)
