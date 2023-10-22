@@ -20,11 +20,16 @@ The script [utils.py](utils.py) is designed to save a training graph, where you 
 
 We have obtained following results for the corresponding models:
 1) Lunar Lander environment
+
 ![alt text](lunar_lander.png)
 ![alt text](lunar_lander_result.gif)
+
 2) Cart Pole environment
+   
 ![alt text](CartPole.png)
 ![alt text](CartPole_results.gif)
+
 3) Acrobot environment
+
 ![alt text](Acrobot.png)
 ![alt text](Acrobot_results.gif)
