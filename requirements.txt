@@ -1,0 +1,6 @@
+torch
+numpy
+matplotlib
+swig
+box2d-py
+gym[box2d]
